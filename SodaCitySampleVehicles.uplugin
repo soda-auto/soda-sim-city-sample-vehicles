@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SodaCitySampleVehicles",
+	"Description": "",
+	"Category": "Soda",
+	"CreatedBy": "Soda LTD",
+	"CreatedByURL": "http://soda.auto",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SodaSim",
+			"Enabled": true
+		}
+	]
+}
